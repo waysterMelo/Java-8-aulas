@@ -1,4 +1,4 @@
-package org.example;
+package org.example.streamapi;
 
 import java.util.List;
 import java.util.Map;
